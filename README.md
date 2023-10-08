@@ -1,1 +1,1 @@
-# ToDo-App-JavaScript
+# To-Do App using HTML, CSS and JavaScript with Local Storage
